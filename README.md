@@ -1,1 +1,3 @@
-# Linear-Regression
+El análisis de la regresión lineal se utiliza para predecir el valor de una variable según el valor de otra. La variable que desea predecir se denomina variable dependiente. La variable que está utilizando para predecir el valor de la otra variable se denomina variable independiente.
+
+Esta forma de análisis estima los coeficientes de la ecuación lineal, involucrando una o a más variables independientes que mejor predicen el valor de la variable dependiente. La regresión lineal se ajusta a una línea recta o a una superficie que minimiza las discrepancias entre los valores de salida previstos y reales. Hay calculadoras de regresión lineal simple que utilizan el método de “mínimos cuadrados” para determinar la línea que mejor se ajusta para un conjunto de datos pareados. A continuación, se calcula el valor de X (variable dependiente) con respecto a Y (variable independiente).
